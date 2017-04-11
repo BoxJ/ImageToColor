@@ -53,6 +53,7 @@
 		F1F87FA51E9CC22500F7FE21 /* FPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F87FA41E9CC22500F7FE21 /* FPUtils.m */; };
 		F1F87FAB1E9CC48400F7FE21 /* UIColor+toString.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F87FA81E9CC48400F7FE21 /* UIColor+toString.m */; };
 		F1F87FAC1E9CC48400F7FE21 /* UIImage+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F87FAA1E9CC48400F7FE21 /* UIImage+Color.m */; };
+		F1F87FAE1E9CC9D100F7FE21 /* 001.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F87FAD1E9CC9D100F7FE21 /* 001.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -130,6 +131,7 @@
 		F1F87FA81E9CC48400F7FE21 /* UIColor+toString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+toString.m"; sourceTree = "<group>"; };
 		F1F87FA91E9CC48400F7FE21 /* UIImage+Color.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Color.h"; sourceTree = "<group>"; };
 		F1F87FAA1E9CC48400F7FE21 /* UIImage+Color.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Color.m"; sourceTree = "<group>"; };
+		F1F87FAD1E9CC9D100F7FE21 /* 001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 001.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 		F1F87F241E9CBA4000F7FE21 /* ImageToColor */ = {
 			isa = PBXGroup;
 			children = (
+				F1F87FAD1E9CC9D100F7FE21 /* 001.png */,
 				F1F87FA61E9CC48400F7FE21 /* Category */,
 				F1F87FA21E9CC22500F7FE21 /* Tools */,
 				F1F87F731E9CC08200F7FE21 /* Images */,
@@ -397,6 +400,7 @@
 				F1F87F8F1E9CC08200F7FE21 /* bg#66250F.jpg in Resources */,
 				F1F87F921E9CC08200F7FE21 /* bg#B20000.jpg in Resources */,
 				F1F87F351E9CBA4000F7FE21 /* LaunchScreen.storyboard in Resources */,
+				F1F87FAE1E9CC9D100F7FE21 /* 001.png in Resources */,
 				F1F87F9A1E9CC08200F7FE21 /* text#7FBF26.jpg in Resources */,
 				F1F87F321E9CBA4000F7FE21 /* Assets.xcassets in Resources */,
 				F1F87F8D1E9CC08200F7FE21 /* bg#223773.jpg in Resources */,
